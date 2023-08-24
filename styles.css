@@ -31,9 +31,9 @@ a{
 .player_one{
     height: 30%;
     width: 100%;
-    
+    background-color: rgb(255, 255, 255);
 }
 .player_two{
     width: 100%;
-    
+    background-color: rgb(255, 255, 255);
 }
